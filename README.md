@@ -50,5 +50,8 @@ Therefore,
    within your ClearCanvas directory.
 
 You are now ready to make changes to the code in your private fork/clone.
+this is a fork repository
+
+
 
 
